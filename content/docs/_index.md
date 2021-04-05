@@ -1,7 +1,7 @@
 ---
-title: Docs
+title: Links
 type: book  # Do not modify.
 toc: false
 ---
 
-Welcome to the _book_ template!
+Welcome to CBA's Knowledge Link
