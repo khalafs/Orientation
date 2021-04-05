@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Teaching
+linktitle: 2. Teaching
 summary: This page contains information necessary for teaching in CBA
 weight: 1
 icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: Teaching
+title: 2. Teaching
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
