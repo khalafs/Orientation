@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Book Template
+title: Faculty Knowledge Link
 hero_media: book.svg
 design:
   background:
@@ -16,7 +16,7 @@ cta:
   icon: download
 cta_alt:
   url: docs/
-  label: View Documentation
+  label: View Links
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
@@ -28,4 +28,4 @@ Published with the [Wowchemy Website Builder](https://sourcethemes.com/academic/
 
 Write something interesting about your project here.
 
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-book" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Book template">Star the Book template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="http://www.cba.edu.kw/COBA/AcademicsAffairs/index.htm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="CBA Academic Affairs">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://portal.ku.edu.kw/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Kuwait University Portal">Star the Book template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
