@@ -12,13 +12,13 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-* **Mission and CBA Learning Competencies** 
-* **Faculty Handbook**
+* [**Mission and CBA Learning Competencies**](https://cbalink.netlify.app/docs/chapter2/mission/)
+* [**Faculty Handbook**](https://cbalink.netlify.app/docs/chapter2/handbook/)
   * Teaching Load
   * Counting Absences
   * Grade Distribution Requirements
   * Cheating and Plagarism
-* **KU Portal**
-* **Syllabus Templates and Format**
-* **Online LMS and MS Teams**
-* **Teaching Excellence**
+* [**KU Portal**](https://cbalink.netlify.app/docs/chapter2/portal/)
+* [**Syllabus Templates and Format**](https://cbalink.netlify.app/docs/chapter2/syllabus/)
+* [**Online LMS and MS Teams**](https://cbalink.netlify.app/docs/chapter2/lms/)
+* [**Teaching Excellence**](https://cbalink.netlify.app/docs/chapter2/teachingexcl/)
