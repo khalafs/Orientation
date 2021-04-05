@@ -12,12 +12,12 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-* Mission and CBA Learning Competencies 
-* Faculty Handbook
+* **Mission and CBA Learning Competencies** 
+* **Faculty Handbook**
   * Teaching Load
   * Counting Absences
   * Grade Distribution Requirements
   * Cheating and Plagarism
-* KU Portal
-* Syllabus Templates and Format
-* Teaching Excellence
+* **KU Portal**
+* **Syllabus Templates and Format**
+* **Teaching Excellence**
