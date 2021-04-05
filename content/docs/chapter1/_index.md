@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Getting Started
+linktitle: 1. Getting Started
 summary: This page is useful upon graduation and for setting yourself up at CBA
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Getting Started
+title: 1. Getting Started
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
