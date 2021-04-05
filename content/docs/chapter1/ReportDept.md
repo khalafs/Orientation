@@ -27,8 +27,9 @@ Once you have finished the steps Upon Graduation you should visit your Departmen
 ## Setting up Office and PC
 
 * Once provided with an office and office key, you will be given a PC
-* Fill out form for Teaching Preferences indicating your choices
-* Find teaching guidelines and regulation [here](xxx) 
+* Ask IT Support to link PC to department printer
+* Ask IT for secondary laptop device 
+* Contact xxxxx for IT Support 
 
 ## Add your Name to Faculty Directory
 * Contact Shayma Al-Qasem <shaimaa@cba.edu.kw>
