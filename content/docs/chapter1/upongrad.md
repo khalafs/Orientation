@@ -28,6 +28,6 @@ Following the receipt of the Graduation Letter and your arrival back in Kuwait, 
 ## Housing Support
 
 * Visit the Housing Office in Shwaikh Campus and fill out the required forms 
-* Visit the Government Center in Tahreer Tower with قرار التعيين and obtain certificates from وزارة العدل and بنك الائتمان الكويتي and المؤسسةالعامة للرعاية السكنية
+* Visit the Government Center in Tahreer Tower with قرار التعيين and obtain certificates from وزارة العدل and بنك الائتمان الكويتي and المؤسسة العامة للرعاية السكنية
 * Return certificates to Housing Office and provide them with KU Email [link here]
 * Annually resubmit forms in case anything changes
