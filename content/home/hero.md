@@ -9,14 +9,15 @@ design:
     gradient_start: '#4bb4e3'
     gradient_end: '#2b94c3'
     text_color_light: true
-
-cta_alt:
+cta:
   url: docs/
-  label: View Links
+  label: Get Started
+ 
+
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
-      Show your product version here:<!-- Automatically filled based on data-repo value -->
+      Product version here:<!-- Automatically filled based on data-repo value -->
     </span>
 ---
 
