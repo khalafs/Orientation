@@ -13,5 +13,5 @@ type: book  # Do not modify.
 ---
 
 
-* [**Department Committees**]
-* [**Student Clubs**]
+* [**Department Committees**](https://cbalink.netlify.app/docs/chapter3/committees/)
+* [**Student Clubs**](https://cbalink.netlify.app/docs/chapter3/clubs/)
