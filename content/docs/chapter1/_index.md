@@ -14,12 +14,13 @@ type: book  # Do not modify.
 
 Follow these steps to set up:
 
-* **Upon Graduation**
+* [**Upon Graduation**](https://cbalink.netlify.app/docs/chapter1/upongrad/)
   * ID Card
   * Housing Support
-* **Email**
-* **Reporting to Department**
-* **KU Oracle Employee Self Service System**
-* **Online Faculty Profile**
+* [**Email and Online ID**](https://cbalink.netlify.app/docs/chapter1/email/)
+* [**Reporting to Department**](https://cbalink.netlify.app/docs/chapter1/reportdept/)
+  * Online Faculty Profile
+* [**KU Oracle Employee Self Service System**](https://cbalink.netlify.app/docs/chapter1/oracle/)
+
 
 
