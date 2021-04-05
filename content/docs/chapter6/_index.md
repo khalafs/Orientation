@@ -4,7 +4,7 @@
 linktitle: 6. Additional Resources
 summary: This page contains links and references to additional resources for CBA faculty
 weight: 1
-icon: book-reader
+icon: book
 icon_pack: fas
 
 # Page metadata.
