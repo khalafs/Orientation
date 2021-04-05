@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: CBA Link - Faculty Knowledge Base
+title: CBALink - Faculty Knowledge Base
 hero_media: book.svg
 design:
   background:
