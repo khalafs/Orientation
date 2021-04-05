@@ -14,6 +14,6 @@ type: book  # Do not modify.
 ---
 
 
-* [**Research Grants**]
-* [**Academic Leave**]
-* [**Conferences**]
+* [**Research Grants**](https://cbalink.netlify.app/docs/chapter4/grants/)
+* [**Academic Leave**](https://cbalink.netlify.app/docs/chapter4/sabbatical/)
+* [**Conferences**](https://cbalink.netlify.app/docs/chapter4/conferences/)
