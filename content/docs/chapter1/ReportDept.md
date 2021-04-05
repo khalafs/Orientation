@@ -21,6 +21,8 @@ Once you have finished the steps Upon Graduation you should visit your Departmen
 * Find Department Courses offerring [here](http://www.cba.edu.kw/COBA/Departments/index.htm)
 * Fill out form for Teaching Preferences indicating your choices
 * Find teaching guidelines and regulation [here](xxx) 
+* Teaching Assistants are required for 200-level courses, non-mandatory for higher-level courses
+* Ask Department Academic Committee for information on course description, materials, textbooks, etc.
 
 ## Setting up Office and PC
 
