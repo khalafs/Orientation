@@ -20,4 +20,5 @@ type: book  # Do not modify.
   * Cheating and Plagarism
 * **KU Portal**
 * **Syllabus Templates and Format**
+* **Online LMS and MS Teams**
 * **Teaching Excellence**
