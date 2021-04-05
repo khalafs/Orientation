@@ -24,8 +24,6 @@ cta_note:
     </span>
 ---
 
-Published with the [Wowchemy Website Builder](https://sourcethemes.com/academic/) for Hugo.
+Through this website you can orient yourself through CBA and Kuwait University. All matters pretaining to faculty teaching, research, and administrative matters can be found here. 
 
-Write something interesting about your project here.
-
-<a class="github-button" href="http://www.cba.edu.kw/COBA/AcademicsAffairs/index.htm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="CBA Academic Affairs">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://portal.ku.edu.kw/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Kuwait University Portal">Star the Book template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<a class="github-button" href="http://www.cba.edu.kw/COBA/AcademicsAffairs/index.htm" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="CBA Academic Affairs">CBA Academic Affairs</a><br><a class="github-button" href="https://portal.ku.edu.kw/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Kuwait University Portal">Kuwait University Portal</a><script async defer src="https://buttons.github.io/buttons.js"></script>
