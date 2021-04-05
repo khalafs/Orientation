@@ -8,8 +8,7 @@ weight: 2
 ---
 Download the 2014 Faculty Handbook [here](http://www.cba.edu.kw/cs/groups/coba/documents/ku_content/kuw187680.pdf)
 
-
-## Important Highlights
+## {{< hl >}}Important Highlights{{< /hl >}}
 
 ## Teaching Load
   * Faculty members without administrative responsibilities must teach at least 3(?) courses
