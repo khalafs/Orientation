@@ -1,10 +1,20 @@
+---
+title: Mission and Vision 
+linktitle: Mission and Vision 
+type: book
+date: "2019-05-05T00:00:00+01:00"
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
+---
+
+
 #CBA Mission: 
 
 > We exist to provide an exceptional learning experience - through excellent education, quality research and close engagement with
 > the community - that transforms our students into innovative business professionals who will
 > contribute to the development of Kuwait
 
-#CBA Vission
+#CBA Vision
 
 > To be recognized for developing innovative business professionals 
 
