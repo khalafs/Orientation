@@ -12,6 +12,10 @@ weight: 1
 * Fill out and sign co-auother contribution form after each publication 
 * Collect all co-author forms for promotion packages
 
+## Promotion Requirements
+* What publications count towards promotion?
+
 
 
 ## Readying Promotion Package 
+
