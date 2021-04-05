@@ -17,7 +17,7 @@ cta:
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
-      Product version here:<!-- Automatically filled based on data-repo value -->
+      Product version:<!-- Automatically filled based on data-repo value -->
     </span>
 ---
 
