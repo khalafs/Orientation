@@ -7,10 +7,10 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 4
 ---
 
-#Core Courses
+## Core Courses
 * For core courses, the syllabus must strictly adhere to that which is approved by the Deparment's Academic Committee 
 * Template of approved core course syllabi can be accessed [here]
 
-#Non-core Courses
+## Non-core Courses
 * Adhering to AACSB recommendations, even non-core courses offered at CBA should follow the suggested templates
 * A list of approved syllabi can be found [here](http://www.cba.edu.kw/cmu/)
