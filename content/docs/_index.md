@@ -16,8 +16,4 @@ Site Contents:
 
 
 
-content:
-  form:
-    provider: netlify
-    netlify:
-      captcha: true
+Please send comments, concerns, questions, updates to xxxxx@ku.edu.kw 
