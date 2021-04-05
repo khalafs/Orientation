@@ -11,7 +11,7 @@ design:
     text_color_light: true
 cta:
   url: docs/
-  label: View Links
+  label: View CBALink
  
 
 cta_note:
