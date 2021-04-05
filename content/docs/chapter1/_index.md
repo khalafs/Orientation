@@ -15,9 +15,9 @@ type: book  # Do not modify.
 Follow these steps to set up:
 
 * **Upon Graduation**
-* **ID Card**
+  * ID Card
+  * Housing Support
 * **Email**
-* **Housing Support**
 * **Reporting to Department**
 * **KU Oracle Employee Self Service System**
 * **Online Faculty Profile**
