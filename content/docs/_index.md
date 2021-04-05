@@ -1,10 +1,10 @@
 ---
-title: CBA Links - Faculty Knowledge Base
+title: CBALink - Faculty Knowledge Base
 type: book  # Do not modify.
 toc: false
 ---
 
-Welcome to CBA's Knowledge Link. This website serves as faculty's go-to reference for all matters concerning orientation, teaching, service, research, promotions and more.  
+Welcome to CBALink, the Faculty Knowledge Base. This website serves as faculty's go-to reference for all matters concerning orientation, teaching, service, research, promotions and more.  
 Site Contents:
 
 1. [Getting Started](https://cbalink.netlify.app/docs/chapter1/)
