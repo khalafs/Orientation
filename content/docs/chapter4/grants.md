@@ -8,6 +8,9 @@ weight: 1
 ---
 
 
-## Research Grants
+## Internal Grants
 * RIGS orientation for new faculty usually takes place in November of every Academic year. If you have not received an invitation please contact xxx.
 * Faculty can get more information on how to apply for grants through [here](http://www.cba.edu.kw/COBA/AcademicsAffairs/Research/Grants/index.htm)
+
+## External Grants
+* KFAS
