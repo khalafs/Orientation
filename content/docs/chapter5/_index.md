@@ -13,8 +13,8 @@ type: book  # Do not modify.
 ---
 
 
-* [**Applying for Promotion**]
-* [**Accreditation Designation**]
-* [**Awards**]
-* [**Training**]
-* [**Public Profile**]
+* [**Applying for Promotion**](https://cbalink.netlify.app/docs/chapter5/promotion/)
+* [**Accreditation Designation**](https://cbalink.netlify.app/docs/chapter5/designation/)
+* [**Awards**](https://cbalink.netlify.app/docs/chapter5/awards/)
+* [**Training**](https://cbalink.netlify.app/docs/chapter5/training/)
+* [**Public Profile**](https://cbalink.netlify.app/docs/chapter5/profile/)
