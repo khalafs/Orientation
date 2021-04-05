@@ -7,6 +7,10 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 1
 ---
 
+## CBA-level Committees
+* xx Committee
+* xx Committee
+
 ## Required Committees in Each Department
 * Academic Committee
 * Schedule Committee
