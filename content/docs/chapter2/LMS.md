@@ -12,7 +12,7 @@ weight: 5
 * Visit moodle.ku.edu.kw and use your xxxx@ku.edu.kw email to log in 
 * Each semester registered students will automatically be enrolled in the respective courses for each faculty member
 * Moodle can be used for online evaluation as it is equipped with several digital proctering applications (e.g. Respondus Lockdown Browser, Procterio) 
-* Additional resources for online testing and evaluation can be found here {{% staticref "media/Moodletesting.pdf" "newtab" %}}found here{{% /staticref %}}
+* Additional resources for online testing and evaluation can be  {{% staticref "media/Moodletesting.pdf" "newtab" %}}found here{{% /staticref %}}
 * For a repository of troubleshooting issues, join the Moodle Discussion Forum channel on MS Teams through [here](https://teams.microsoft.com/l/channel/19%3a99fbf1a1f3b6413abf58cb04d5f138ce%40thread.tacv2/Moodle%2520Discussion%2520Forum?groupId=53251618-b35a-40d1-9eb2-b85b3bf809ec&tenantId=f9258092-e362-4609-bea8-75884d326920)
 
 ## Microsoft Teams
